@@ -1,0 +1,117 @@
+body {
+    background-color: #fff;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.navbar a:hover {
+    color: #0b0981 !important;
+}
+
+.navbar a {
+    color: #3633cc !important;
+}
+
+a.get {
+    color: white !important;
+}
+
+a.bitbuc {
+    text-decoration: none;
+}
+
+.home1 {
+    background-color: rgba(218, 224, 230, 0.979);
+    margin-top: 50px;
+}
+
+.dieve {
+    width: 100%;
+    height: 400px;
+    background-color: hsla(0, 0%, 100%, 0.788);
+}
+
+.home2 {
+    width: 100%;
+    height: 400px;
+    background-color: hsla(0, 0%, 100%, 0.788);
+    padding-top: 35px;
+    margin-bottom: 100px;
+}
+
+.home3 {
+    width: 100%;
+    height: 400px;
+    background-color: hsla(0, 0%, 100%, 0.788);
+    padding-top: 35px;
+}
+
+.hom1 {
+    margin-left: 80px !important;
+}
+
+.home6 {
+    width: 100%;
+    height: 600px;
+    background-color: rgba(218, 224, 230, 0.979);
+}
+
+.cardbod {
+    background-color: transparent;
+    box-shadow: #fff;
+}
+
+.sig {
+    font-size: 10px;
+    color: black;
+}
+
+.logo2:hover {
+    background-color: #0b0981;
+}
+
+.frod {
+    background-color: grey;
+    border-radius: 50%;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.home7 {
+    width: 100%;
+    height: 200px;
+    margin-top: 50px;
+}
+
+.new1 {
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.home8 {
+    width: 100%;
+    height: 500px;
+    background-color: #fff;
+}
+
+.home9 {
+    width: 100%;
+    height: 500px;
+    background-color: rgba(218, 224, 230, 0.979);
+    margin-top: 300px;
+}
+
+.home10 {
+    width: 100%;
+    height: 360px;
+    background-color: rgba(218, 224, 230, 0.979);
+}
+
+.btm {
+    margin-top: 125px;
+}
+
+.drop1 {
+    border-top: red solid 2px;
+}
